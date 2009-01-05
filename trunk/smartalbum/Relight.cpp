@@ -6,10 +6,12 @@
 #define patch_Width  40
 CRelight::CRelight(void)
 {
+
 }
 
 CRelight::~CRelight(void)
 {
+
 }
 void CRelight::patch_analysis_relight(CBmp* pBmp)
 {
